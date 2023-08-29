@@ -1,0 +1,32 @@
+<svg class=" position-absolute" width="100%" height="100%" style="background-color:blue;" id="bottom-svg-wrapper" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 2056">
+                      <defs>
+                        <style>
+                          .cls-1111 {
+                            fill: #f15c24;
+                            stroke-width: 0px;
+                          }
+                    
+                          .cls-2222 {
+                            fill: none;
+                            stroke: url(#linear-gradient);
+                            stroke-width: 17px;
+                          }
+                        </style>
+                        <linearGradient id="linear-gradient" x1="0" y1="-1477.58" x2="3794.45" y2="-1477.58" gradientTransform="translate(0 2320)" gradientUnits="userSpaceOnUse">
+                          <stop offset="0" stop-color="#da2128"></stop>
+                          <stop offset=".52" stop-color="#ed6c30"></stop>
+                          <stop offset="1" stop-color="#f05123"></stop>
+                        </linearGradient>
+                      </defs>
+                      <g id="Layer_2-2" data-name="Layer 2">
+                        <g id="Layer_2-2" data-name="Layer 2-2">
+                          <g id="Pipeline">
+                            <path id="bottom-svg" data-name="Path 718" class="cls-2222" d="m8.5,0v1623.93c0,29,23.5,52.4,52.4,52.4h3733.55" stroke-linecap="round" style="stroke-dasharray: 5439.81; stroke-dashoffset: 2407.47;"></path>
+                            <path id="Rectangle_410" data-name="Rectangle 410" class="cls-1111" d="m1339.5,1658.83h0c2.8,0,5,2.2,5,5v25c0,2.8-2.2,5-5,5h0c-2.8,0-5-2.2-5-5v-25c0-2.8,2.3-5,5-5Z"></path>
+                            <path id="Rectangle_407" data-name="Rectangle 407" class="cls-1111" d="m1218.2,1658.83h0c2.8,0,5,2.2,5,5v25c0,2.8-2.2,5-5,5h0c-2.8,0-5-2.2-5-5v-25c0-2.8,2.3-5,5-5Z"></path>
+                            <path id="Rectangle_410-2" data-name="Rectangle 410-2" class="cls-1111" d="m580.8,1658.83h0c2.8,0,5,2.2,5,5v25c0,2.8-2.2,5-5,5h0c-2.8,0-5-2.2-5-5v-25c0-2.8,2.2-5,5-5Z"></path>
+                            <path id="Rectangle_407-2" data-name="Rectangle 407-2" class="cls-1111" d="m226.1,1658.83h0c2.8,0,5,2.2,5,5v25c0,2.8-2.2,5-5,5h0c-2.8,0-5-2.2-5-5v-25c0-2.8,2.2-5,5-5Z"></path>
+                          </g>
+                        </g>
+                      </g>
+                    </svg>
