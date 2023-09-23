@@ -39,7 +39,10 @@ export async function POST(req, res) {
 
     const savedUser = await newUser.save();
 
-    await sendEmail(savedUser.email, "VERIFY", savedUser._id);
+    const data = await sendEmail(savedUser.email, "VERIFY", savedUser._id);
+
+    console.log(data);
+
     return NextResponse.json(
       { message: "user data uploaded successfully", user: savedUser },
       { status: "201" }

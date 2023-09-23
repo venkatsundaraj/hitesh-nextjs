@@ -10,6 +10,7 @@ mongoDb();
 export async function POST(req, res) {
   try {
     const { email, password } = await req.json();
+    console.log(process.env.MONGO_URI);
 
     const existedUser = await user.findOne({ email: email });
 
